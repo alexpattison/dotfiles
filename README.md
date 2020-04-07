@@ -1,7 +1,7 @@
 # dotfiles
 
 - homebrew and brewfile: https://thoughtbot.com/blog/brewfile-a-gemfile-but-for-homebrew
-- (python should be handled by now)
+- (python should be handled by now from the brewfile) -- may need to use `pip3` instead of `pip`
 - Most things should be covered by the brewfile
 - oh-my-zsh: https://ohmyz.sh/
 - iterm (should be done through brewfile)
@@ -9,13 +9,8 @@
 - Alfred subscription including power pack is in email
 - vscode: https://itnext.io/settings-sync-with-vs-code-c3d4f126989 (to sync settings)
 - speed up keyboard
-- iterm
 - hub
 - freedom
 - balance lock
 - docker
 - nosleep
-- download operator mono and alex cobalt theme from email
-- power line and all that goodness from wes bos
-- key repeat rate
--

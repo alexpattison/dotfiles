@@ -1,13 +1,14 @@
 # dotfiles
 
+- homebrew and brewfile: https://thoughtbot.com/blog/brewfile-a-gemfile-but-for-homebrew
+- (python should be handled by now)
 - Most things should be covered by the brewfile
+- oh-my-zsh: https://ohmyz.sh/
+- iterm (should be done through brewfile)
+  - wes bos theme and my specific theme: https://github.com/AlexPattison/Cobalt2-iterm (contained within this repo)
 - Alfred subscription including power pack is in email
 - vscode: https://itnext.io/settings-sync-with-vs-code-c3d4f126989 (to sync settings)
-- iterm (should be done through brewfile)
-  - wes bos theme and my specific theme: https://github.com/AlexPattison/Cobalt2-iterm
 - speed up keyboard
-- oh-my-zsh
-- homebrew: is there a way to save a config? is this what brewfile does?
 - iterm
 - hub
 - freedom

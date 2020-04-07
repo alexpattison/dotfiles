@@ -1,0 +1,3 @@
+[submodule "Cobalt2-iterm"]
+	path = Cobalt2-iterm
+	url = https://github.com/AlexPattison/Cobalt2-iterm.git

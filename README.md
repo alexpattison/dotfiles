@@ -1,7 +1,7 @@
 # dotfiles
 
 - homebrew and brewfile: https://thoughtbot.com/blog/brewfile-a-gemfile-but-for-homebrew
-- Speed up keyboard: https://timber.io/snippets/increase-keyboard-repeat-rate-on-mac/
+- Speed up keyboard: https://timber.io/snippets/increase-keyboard-repeat-rate-on-mac/ (1 and 6 seem like good defaults)
 - (python should be handled by now from the brewfile) -- may need to use `pip3` instead of `pip`
 - Most things should be covered by the brewfile
 - oh-my-zsh: https://ohmyz.sh/

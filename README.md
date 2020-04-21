@@ -8,8 +8,3 @@
 - Alfred subscription including power pack is in email
 - vscode: https://itnext.io/settings-sync-with-vs-code-c3d4f126989 (to sync settings)
   - search "cobalt 3" on the extension store to find my specific version (more italics baby!)
-- hub
-- freedom
-- balance lock
-- docker
-- nosleep

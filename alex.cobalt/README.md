@@ -1,2 +1,0 @@
-- install https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2
-- Replace `cobalt2.json` in "/.vscode/extensions/wesbos.theme-cobalt2-2.1.6/theme" with the one in this directory

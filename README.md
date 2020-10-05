@@ -1,6 +1,7 @@
 # dotfiles
 
 - homebrew and brewfile: https://thoughtbot.com/blog/brewfile-a-gemfile-but-for-homebrew
+- Download Vimac (Not available on homebrew at the time of writing this)
 - Speed up keyboard: https://timber.io/snippets/increase-keyboard-repeat-rate-on-mac/ (1 and 10 seem like good defaults)
 - (python should be handled by now from the brewfile) -- may need to use `pip3` instead of `pip`
 - oh-my-zsh: https://ohmyz.sh/

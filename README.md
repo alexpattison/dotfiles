@@ -8,4 +8,5 @@
 - iterm theme: wes bos theme and my specific theme: https://github.com/AlexPattison/Cobalt2-iterm
 - Alfred subscription including power pack is in email
 - vscode: https://itnext.io/settings-sync-with-vs-code-c3d4f126989 (to sync settings)
+  - find the gist called "cloudSetting" in my gists and paste that gist id into settings-sync
   - search "cobalt 3" on the extension store to find my specific version (more italics baby!) (this may already be covered by settings-sync)

@@ -35,10 +35,10 @@ cask "sequel-ace"
 cask "slack"
 cask "spectacle"
 cask "spotify"
-cask "toggl-track"
 cask "visual-studio-code"
 cask "vlc"
 cask "whatsapp"
 cask "zoomus"
 mas "Just Press Record", id: 979561272
+mas "Toggl Track", id: 1291898086
 mas "Xcode", id: 497799835
